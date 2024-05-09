@@ -4,7 +4,7 @@ import DatePicker from 'react-datepicker'
 import PropTypes from 'prop-types'
 import 'react-datepicker/dist/react-datepicker.css'
 import { createCustomer, createPromotion, getCustomers } from '../actions/customerAction'
-
+//sdfsdf
 function CustomTabPanel(props) {
   const { children, value, index, ...other } = props
 
