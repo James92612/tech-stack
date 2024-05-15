@@ -1,0 +1,69 @@
+* {
+  /* color: #b6b6b6 !important; */
+  font-family: sans-serif !important;
+}
+
+body {
+  margin: 0;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+.messageInput {
+  width: 100%;
+  font-size: 1rem;
+  border: 1px solid #8c96a0;
+  padding: 19px 14px;
+  margin-right: 15px;
+  border-radius: 5px;
+}
+
+.between {
+  display: flex;
+  justify-content: space-between;
+}
+
+.itemCenter {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+}
+
+.alignCenter {
+  display: flex;
+  align-items: center;
+}
+
+.MuiPaper-root {
+  background-color: transparent !important;
+}
+
+.css-1h9z7r5-MuiButtonBase-root-MuiTab-root.Mui-selected {
+  color: #fcfdfe !important;
+  background-color: #1768dd !important;
+}
+
+.MuiButtonBase-root {
+  color: #8c96a0 !important;
+  border-radius: 10px !important;
+}
+
+.MuiTabs-scrollButtons {
+  display: none !important;
+}
+
+.MuiTableBody-root,
+.MuiTableHead-root,
+.MuiTableRow-root,
+.MuiTableCell-root {
+  border: 1px solid #333333 !important;
+  color: #dcdcdc !important;
+}
+
+.MuiList-root {
+  background-color: #eeeeee !important;
+}
